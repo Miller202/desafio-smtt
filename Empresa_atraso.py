@@ -8,7 +8,7 @@ data2 = pd.DataFrame(data1) # check the dataframe.
 table = pd.DataFrame(data1.value_counts()) # get the frequencies in the frequency table.
 
 df = pd.DataFrame({'name': ['Empresa São Francisco', 'Viação Cidade de Maceió', 
-                                  'Real Transportes Urbanos Ltda.	', 'Auto Viação Veleiro LTDA'],
+                                  'Real Transportes Urbanos Ltda.', 'Auto Viação Veleiro LTDA'],
                          'number': [2316, 1889, 1436, 728]})
 
 x = df.name #empresa
