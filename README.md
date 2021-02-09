@@ -3,7 +3,7 @@
 
 #### Proposta: Leitura do relatório em anexo (__viagens.csv__) e apresentação de um resumo a partir da escolha de pelo menos um dos índices apresentados.
 
-#### Obs: O resumo/relatório está anexado na pasta raiz do repositório: (relatorio.md)
+#### Obs: O relatório/resumo está localizado na pasta raiz do repositório: (Relatorio.md)
 
 #### Índices escolhidos para o resumo: 
 
