@@ -18,3 +18,7 @@
 * Percentual de viagens com pontualidade por empresa.
 * Histograma do tempo de viagem dos transportes coletivos.
 
+#### Como executar os arquivos:
+
+* Certifique-se de possuir o __Python__ e o __Pip__ instalados;
+* Execute os arquivos *.py* do diretório */src* com o comando ``` python file_name.py ```
