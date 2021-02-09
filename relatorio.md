@@ -1,3 +1,4 @@
+![alt](https://img.icons8.com/plasticine/2x/business-report.png) 
 # Relatório do tempo de viagem dos transportes coletivos de Maceió
 
 * Autor: Michael Miller Rodrigues Cardoso
