@@ -3,6 +3,8 @@
 
 #### Proposta: Leitura do relatório em anexo (__viagens.csv__) e apresentação de um resumo a partir da escolha de pelo menos um dos índices apresentados.
 
+#### Obs: O resumo/relatório está anexado na pasta raiz do repositório: (relatorio.md)
+
 #### Índices escolhidos para o resumo: 
 
 * empresa - Nome da Empresa operadora da linha;
@@ -14,5 +16,5 @@
 * Quantidade de atrasos do transporte coletivo por empresa; 
 * Quantidade de adiantamentos do transporte coletivo por empresa;
 * Percentual de viagens com pontualidade por empresa.
+* Histograma do tempo de viagem dos transportes coletivos.
 
-#### Obs: O resumo/relatório está anexado na pasta raiz do repositório: (relatorio.md)
