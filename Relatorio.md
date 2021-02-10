@@ -50,4 +50,4 @@ com relação ao atraso, adiantamento, pontualidade e tempo médio das viagens.*
 
 ### Conclusões e considerações finais
 
-* veredito
+* Através da análise dos resultados, foi possível constatar que a melhor empresa quando se trata de tempo de viagem é a Real Transportes Urbanos LTDA, que possui a maior pontualidade, o segundo maior índice de adiantamentos e o segundo menor índice de atrasos. A empresa Viação Cidade de Maceió também possui um bom desempenho, vindo logo em seguida, com a segunda maior pontualidade e o maior número de adiantamentos, porém com o segundo maior índice de atrasos. Também foi possível concluir que a empresa Auto Viação Veleiro LTDA fica atrás de todas as outras, com a menor frota de transportes coletivos de Maceió e consequentemente, com o menor índice em todos os gráficos.
