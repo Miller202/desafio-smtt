@@ -27,3 +27,4 @@ plt.title("Percentual de pontualidade das viagens por empresa",
 		fontsize=20, bbox={'facecolor':'0.8', 'pad':5})
 plt.show()
 
+#plt.savefig("Empresa_pontualidade.png", dpi=300)

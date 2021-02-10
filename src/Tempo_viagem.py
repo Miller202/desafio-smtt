@@ -23,5 +23,7 @@ plt.xticks(np.arange(0, 160, 10))
 
 #plot
 plt.style.use('ggplot')
-plt.hist(x, color='#ed4545', rwidth=0.97)
+plt.hist(x, color='#ed4545', rwidth=0.98)
 plt.show()
+
+#plt.savefig("Tempo_viagem.png", dpi=300)

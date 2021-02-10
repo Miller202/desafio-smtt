@@ -15,11 +15,13 @@ plt.figure(figsize=(16,8))
 plt.title('Quantidade de adiantamentos por empresa', fontsize=20)
 plt.xlabel('Empresa', fontsize=15)
 plt.ylabel('Adiantamentos', fontsize=15)
-plt.xticks(fontsize=10)
-plt.yticks(fontsize=10)
+plt.xticks(fontsize=12)
+plt.yticks(fontsize=12)
 plt.grid(axis='y', color='#a3a3a3', linestyle="--")
 plt.ylim((0, 4500))
 
 #plot
 plt.bar(x, y, color='#42f57e', edgecolor='#a3a3a3', width=0.8)
 plt.show()
+
+#plt.savefig("Empresa_adiantamento.png", dpi=300)
