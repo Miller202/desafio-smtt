@@ -18,7 +18,7 @@ com relação ao atraso, adiantamento, pontualidade e tempo médio das viagens.*
 
 ### Gráfico de Barra da quantidade de viagens atrasadas por empresa
 
-* Este gráfico de barra exibe a quantidade absoluta de viagens **atrasadas** no eixo **X** e o nome das empresas no eixo **Y**. Para obter estas informações, foi necessário criar um dataframe que considere somente as colunas em que a duração realizada de uma viagem foi **maior** que a duração prevista.
+* Este gráfico de barra apresenta a quantidade absoluta de viagens **atrasadas** no eixo **X** e o nome das empresas no eixo **Y**. Para obter estas informações, foi necessário criar um dataframe que considere somente as colunas em que a duração realizada de uma viagem foi **maior** que a duração prevista.
 ![alt](https://github.com/Miller202/desafio-smtt/blob/main/img/Empresa_atraso.png) 
 * <p align="justify">Observando o gráfico, podemos concluir que a empresa São Francisco tem o maior número de viagens com atraso, aproximadamente 2400, enquanto a empresa Auto Viação Veleiro possuir o menor índice de atrasos, aproximadamente 750, porém, vale ressaltar que a Veleiro possui a menor frota de ônibus em Maceió, fato que pesou na quantidade inferior de viagens atrasadas. A empresa Real Transportes Urbanos Ltda também teve um bom desempenho, tendo menos atrasos que as empresas São Francisco e Viação Cidade de Maceió.</p>
 
