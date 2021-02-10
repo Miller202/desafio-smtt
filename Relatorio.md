@@ -18,7 +18,7 @@ com relação ao atraso, adiantamento, pontualidade e tempo médio das viagens.*
 
 ### Gráfico de Barra da quantidade de viagens atrasadas por empresa
 
-* desc
+* Este gráfico de barra exibe a quantidade absoluta de viagens **atrasadas** no eixo **X** e o nome das empresas no eixo **Y**. Para obter estas informações, foi necessário criar um dataframe que considere somente as colunas em que a duração realizada de uma viagem foi **maior** que a duração prevista.
 * img
 * conclusão
 
@@ -26,7 +26,7 @@ com relação ao atraso, adiantamento, pontualidade e tempo médio das viagens.*
 
 ### Gráfico de Barra da quantidade de viagens adiantadas por empresa
 
-* desc
+* Este gráfico de barra exibe a quantidade absoluta de viagens com **adiantamento** no eixo **X** e o nome das empresas no eixo **Y**. Para obter estas informações, foi necessário criar um dataframe que considere somente as colunas em que a duração realizada de uma viagem foi **menor** que a duração prevista.
 * img
 * conclusão
 
@@ -34,7 +34,7 @@ com relação ao atraso, adiantamento, pontualidade e tempo médio das viagens.*
 
 ### Gráfico de Pizza do percentual de viagens pontuais por empresa
 
-* desc
+* Este gráfico de pizza exibe o percentual de viagens realizadas com **pontualidade** por empresa. Para obter uma quantidade considerável de dados, foi considerada uma tolerância de **2 minutos** para uma viagem ser marcada como pontual, ou seja, uma viagem com previsão de 45 minutos é pontual se estiver no intervalo **43 <= x <= 47**.
 * img
 * conclusão
 
@@ -42,7 +42,7 @@ com relação ao atraso, adiantamento, pontualidade e tempo médio das viagens.*
 
 ### Histograma do tempo de viagem dos transportes coletivos de Maceió
 
-* desc
+* Este histograma apresenta o tempo das viagens (em minutos) no eixo **X** e a frequência absoluta no eixo **Y**. Para obter os dados, foi montada uma tabela de frequências da **duração realizada** das viagens do transporte coletivo.
 * img
 * conclusão
 
